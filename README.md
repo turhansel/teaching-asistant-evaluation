@@ -2,4 +2,4 @@
 
 The sample of the project output is on the below.
 
-![OUTPUT](output.png)
+![OUTPUT](output.PNG)
